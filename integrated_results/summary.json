@@ -1,0 +1,25 @@
+{
+  "total_images": 843,
+  "clothing_successes": 843,
+  "color_successes": 843,
+  "pattern_successes": 843,
+  "images_with_errors": 0,
+  "clothing_prediction_counts": {
+    "Tshirts": 497,
+    "Jackets": 222,
+    "Hoodie": 70,
+    "Shirts": 43,
+    "Tops": 11
+  },
+  "pattern_prediction_counts": {
+    "muji": 470,
+    "graphic": 116,
+    "lettering": 101,
+    "not_clear": 83,
+    "stripes": 37,
+    "checked": 21,
+    "leopard": 10,
+    "dots": 3,
+    "floral": 2
+  }
+}
